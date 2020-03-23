@@ -1,6 +1,4 @@
-# The recent server changes
-
-## 2020-03-20 update：
+# 2020-03-20 update：
 
 ## Dr.Anya's suggestions
 
